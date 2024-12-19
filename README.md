@@ -10,6 +10,7 @@
 
 <p align="left">
 📚 Estudio Ingienieria Informatica
+📫 Contacto: **rociorochi0419@gmail.com**
 <br>
 
 ## What I am Good at 🧑‍💻 :
