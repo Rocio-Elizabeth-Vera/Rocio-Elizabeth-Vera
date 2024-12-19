@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Holi 👋 soy Rocio  </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -15,14 +15,19 @@
 ## What I am Good at 🧑‍💻 :
 
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=express,prisma&perline=2)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
-<br>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py&perline=3)](https://skillicons.dev)
 <br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,css,html&perline=3)](https://skillicons.dev)
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=docker,regex,git,vim&perline=4)](https://skillicons.dev)
 <br>
+
 
 ## GitHub Stats 📈 :
 
