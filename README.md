@@ -1,14 +1,15 @@
+<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rocio Elizabeth Vera</h1>
+<p align="left">
+<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
 
-![GitHub followers](https://img.shields.io/github/followers/Rocio-Elizabeth-Vera?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Rocio-Elizabeth-Vera?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Rocio-Elizabeth-Vera.repoName) <img src="https://komarev.com/ghpvc/?username=Rocio-Elizabeth-Vera" alt="Rocio-Elizabeth-Vera" />
-
-## About Me :
-
-- 🎓 Studies for Informatic Engineering at [Faculty of Engineering of the University of Buenos Aires](https://www.fi.uba.ar/)
-- 🏡Lives in **Buenos Aires**
-- ⚡ **Fun Facts** : 🏃♋🍔
-
+<p align="left">
+📚 Estudio Ingienieria Informatica
 <br>
 
 ## Connect with me ☕ :
