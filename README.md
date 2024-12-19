@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:rociorochi0419@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
@@ -31,15 +31,13 @@
 <br>
 
 
-## GitHub Stats 📈 :
+
+## GitHub :octocat:
+
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Rocio-Elizabeth-Vera GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocio-Elizabeth-Vera&theme=algolia)](https://github.com/Rocio-Elizabeth-Vera/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocio-Elizabeth-Vera&theme=algolia)](https://github.com/Rocio-Elizabeth-Vera/github-readme-stats) [![Rocio-Elizabeth-Vera wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocio-Elizabeth-Vera&theme=algolia)](https://github.com/Rocio-Elizabeth-Vera/github-readme-stats)
 
 <br>
 
