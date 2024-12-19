@@ -24,17 +24,17 @@
 [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) 
 [![@rociorochi0419@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@rociorochi0419@gmail.com")](rociorochi0419@gmail.com)
 
-<br>
-
 ## What I am Good at 🧑‍💻 :
 
 <br>
 
-<img src="./icons/C.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48">
-<img src="./icons/Docker.svg" width="48"> <img src="./icons/Regex-Dark.svg" width="48"> <img src="./icons/Git.svg" width="48"> <img src="./icons/VIM-Dark.svg" width="48">
-<img src="./icons/ExpressJS-Dark.svg" width="48"> <img src="./icons/Prisma.svg" width="48">
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py&perline=3)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=docker,regex,git,vim&perline=4)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=express,prisma&perline=2)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-<img src="./icons/HTML.svg" width="48"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="./icons/CSS.svg" width="48">
 
 <br>
 
