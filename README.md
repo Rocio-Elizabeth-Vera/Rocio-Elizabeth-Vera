@@ -6,8 +6,8 @@
 ## About Me :
 
 - 🎓 Studies for Informatic Engineering at [Faculty of Engineering of the University of Buenos Aires](https://www.fi.uba.ar/)
-- 🏡'Lives in **Buenos Aires**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏡Lives in **Buenos Aires**
+- ⚡ **Fun Facts** : 🏃♋🍔
 
 <br>
 
