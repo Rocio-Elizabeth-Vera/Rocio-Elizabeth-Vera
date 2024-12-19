@@ -33,6 +33,7 @@
 <img src="./icons/C.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48">
 <img src="./icons/Docker.svg" width="48"> <img src="./icons/Regex-Dark.svg" width="48"> <img src="./icons/Git.svg" width="48"> <img src="./icons/VIM-Dark.svg" width="48">
 <img src="./icons/ExpressJS-Dark.svg" width="48"> <img src="./icons/Prisma.svg" width="48">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 <img src="./icons/HTML.svg" width="48"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="./icons/CSS.svg" width="48">
 
 <br>
