@@ -12,29 +12,16 @@
 📚 Estudio Ingienieria Informatica
 <br>
 
-## Connect with me ☕ :
-
-<br>
-
-[![@rochiii.ok](https://img.icons8.com/fluency/48/000000/instagram-new.png "@rochiii.ok")](https://www.instagram.com/rochiii.ok/) 
-[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
-[![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) 
-[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) 
-[![@rociorochi0419@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@rociorochi0419@gmail.com")](rociorochi0419@gmail.com)
-
 ## What I am Good at 🧑‍💻 :
 
 <br>
-
+[![My Skills](https://skillicons.dev/icons?i=express,prisma&perline=2)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py&perline=3)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=docker,regex,git,vim&perline=4)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=express,prisma&perline=2)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
 <br>
 
 ## GitHub Stats 📈 :
